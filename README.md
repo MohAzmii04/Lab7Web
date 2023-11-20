@@ -196,8 +196,7 @@ Kelas : TI.22.A1
 ```
 
 
-![Uploading Perulangan dowhile.png…]()
-
+<img width="960" alt="Perulangan dowhile" src="https://github.com/MohAzmii04/Lab7Web/assets/115864496/a291d316-4420-4d7c-8479-4aa32ecaad70">
 
 ## Pertanyaan dan Tugas 
 > Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
@@ -290,9 +289,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </html>
 ```
 
-
-
-https://github.com/MohAzmii04/Lab7Web/assets/115867244/1a104ad5-1190-43b2-918f-3efdfe2d7e69
-
+https://github.com/MohAzmii04/Lab7Web/blob/main/ScreenShot/Form%20Input%20PHP%20-%20Google%20Chrome%202023-11-20%2018-33-38.mp4
 
 ## Sekian, Terima Kasih 
