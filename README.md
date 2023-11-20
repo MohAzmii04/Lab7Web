@@ -289,6 +289,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </html>
 ```
 
-https://github.com/MohAzmii04/Lab7Web/blob/main/ScreenShot/Form%20Input%20PHP%20-%20Google%20Chrome%202023-11-20%2018-33-38.mp4
+
+https://github.com/MohAzmii04/Lab7Web/assets/115864496/9b9b2137-b182-45eb-a06e-2c4c3cbc1e0f
 
 ## Sekian, Terima Kasih 
